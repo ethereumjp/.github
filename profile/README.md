@@ -5,4 +5,4 @@
 Website: [https://ethereumjapan.org](https://ethereumjapan.org) \
 Twitter: [@Ethereum_JP](https://twitter.com/Ethereum_JP) \
 Github: [@ethereumjp](https://github.com/ethereumjp) \
-connpass: [@ethereumjapan](https://ethereumjapan.connpass.com/)
+Events: [@ethjp](https://lu.ma/ethjp)
