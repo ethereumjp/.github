@@ -2,7 +2,7 @@
 
 ### Official links
 
-Website: [https://ethereumjp.org](https://ethereumjp.org) \
+Website: [https://ethereum-japan.org](https://ethereum-japan.org) \
 Twitter: [@Ethereum_JP](https://twitter.com/Ethereum_JP) \
 Github: [@ethereumjp](https://github.com/ethereumjp) \
 Discord: [Ethereum Japan](https://discord.gg/Tm5jU3DSCE)
